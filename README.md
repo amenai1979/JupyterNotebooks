@@ -1,2 +1,5 @@
-# JupyterNotebooks
-# JupyterNotebooks
+Author: Alexandre Menai (amenai@amenai.net)
+
+The purpose of this notebook is to serve as a python machine learning guide for me or others wishing to have some fun (most important) and understand the limitations and Quirks of different AI algorithms. I am writing this as I am reading the excellent book by Raschka, Sebastian and Vahid Mirjalili: Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition.
+
+I will be using a slightly different set of examples taken from the aviation world based on multiple factors experienced pilots and regulation impose certain conditions of flights. This lab is an attempt to make decisions based on several physical parameters to fly under instrument conditions (IFR) or visual conditions (VFR) for the sake of discussion we are considering the following parameters: ceiling (cloud altitudes) and visibility we will assume that the binary decision is possible through those parameters that mimic pilot appreciation. CAUTION: PLEASE DO NOT USE THIS FOR FLIGHT DECISION MAKING AND REFER TO YOUR REGULARATORY TEXTS THIS IS JUST AN ILLUSTRATIVE EXAMPLE TO MAKE THE LEARNING PROCESS EASIER!!!
